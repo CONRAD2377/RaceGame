@@ -1,2 +1,0 @@
-# RaceGame
-PROJECT: RaceGame
